@@ -25,7 +25,7 @@
 
 
 ##
-### Contato:
+### Contatos:
 
 <div> 
   
