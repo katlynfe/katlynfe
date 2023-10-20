@@ -1,4 +1,4 @@
-### Olá! Eu sou a Katlyn Fagundes. Seja bem vindo(a) 😊
+## Olá! Eu sou a Katlyn Fagundes. Seja bem vindo(a) 😊
 
 - 🌟 Técnica em administração pelo Intatituto Federal de Minas Gerais
 - 🌟 Estudando astrofísica na Universidade Federal de Sergipe
