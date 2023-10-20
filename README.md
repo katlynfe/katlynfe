@@ -1,6 +1,6 @@
-## Olá! Eu sou a Katlyn Fagundes. Seja bem vindo(a) 😊
+#### Olá! Eu sou a Katlyn Fagundes. Seja bem vindo(a) 😊
 
-- 🌟 Técnica em administração pelo Intatituto Federal de Minas Gerais
+- 🌟 Técnica em administração pelo Instituto Federal de Minas Gerais
 - 🌟 Estudando astrofísica na Universidade Federal de Sergipe
 - 🌟 Aluna do 1000Devs pela mesttra com colaboração da Johnson & Johnsons e Hospital Israelita Albert Einstein
 
