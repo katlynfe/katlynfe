@@ -3,7 +3,7 @@
 
 - 🌟 Técnica em administração pelo Instituto Federal de Minas Gerais
 - 🌟 Estudando astrofísica na Universidade Federal de Sergipe
-- 🌟 Aluna do 1000Devs pela mesttra com colaboração da Johnson & Johnsons e Hospital Israelita Albert Einstein
+- 🌟 Aluna do 1000Devs pela mesttra com colaboração da Johnson & Johnson e Hospital Israelita Albert Einstein
 
 ##
 ### Linguagens:
