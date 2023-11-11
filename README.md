@@ -20,6 +20,10 @@
 ![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)&nbsp;
 ![Microsoft Excel](https://img.shields.io/badge/Microsoft%20Excel-217346.svg?style=for-the-badge&logo=Microsoft-Excel&logoColor=white)
 
+<img align="center" alt="Rafa-Dbeaver" height="50" width="80" src="https://api.iconify.design/devicon:dbeaver.svg?color=%23888888.svg"> <img align="center" alt="Rafa-Dbeaver" height="50" width="80" src="https://api.iconify.design/devicon:postgresql-wordmark.svg?color=%23888888.svg">
+
+
+
 ##
 ### Sistemas operacionais:
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)&nbsp;
